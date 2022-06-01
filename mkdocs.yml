@@ -1,6 +1,6 @@
-site_name: My Docs
+site_name: Suikac's blog
 theme:
   name: material
 nav:
   - Home: index.md
-  - Distributed: distributed.md
+  - CS6.824: distributed.md
